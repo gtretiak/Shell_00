@@ -45,9 +45,8 @@ This project employs a minimalist approach focusing on:
 6) file: File type identification
 
 ## Setup Instructions
-1. Clone this repository:
-git clone https://github.com/gtretiak/42School/blob/main/Piscine-2024/shell00
-2. cd shell00
+1. git clone the repository
+2. cd Shell_00
 3. Each exercise is contained in its own directory (ex00, ex01, etc.)
 4. To test specific exercises:
 #### For exercise 00
